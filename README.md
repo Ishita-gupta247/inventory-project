@@ -1,2 +1,2 @@
 # inventory-project
-*sale*
+*sale* https://inventory-sale-project.herokuapp.com/
